@@ -1,0 +1,30 @@
+deffirence between script on top and bottom 
+
+how to make variables 
+
+how to access html page 
+
+variables data types
+
+if statement 
+
+
+
+// var y = document.write("<div><p>hello from js</p></div>");
+
+// console.log(window.prompt("what is your name"));
+
+// var x = document.getElementById("test");
+
+// x.innerHTML = window.prompt ("what is your age ?");
+
+// + , - , * , / , %
+
+
+/*var x = document.getElementById("test");
+
+x.innerHTML = "taher from JS";*/
+
+// document.write("<h1>taher from js - 2</h1>");
+
+// window.alert("password shall be more than 6 char");
